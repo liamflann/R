@@ -8,7 +8,7 @@ The users should have R installed on his/her machine. Due to privacy concerns th
 
 RUN
 
-To run the program, the user should see each scripts USER DOCUMENTATION.
+To run the program, the user should see each script's USER DOCUMENTATION.
 
 AUTHOR
 Liam Flannagan
